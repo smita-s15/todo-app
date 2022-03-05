@@ -1,6 +1,5 @@
 
-# Project Title
-Next.js Todolist with Firebase
+# Next.js Todolist with Firebase
 
 This project uses following techs
 1. Next.js
@@ -41,5 +40,5 @@ Start the server
 
 
 ## 🛠 Skills
-HTML, CSS, Javascript, React.js , Next.js, Chakra-UI, Material-UI, Firebase
+HTML, CSS, Javascript, Next.js, Material-UI, Firebase
 
