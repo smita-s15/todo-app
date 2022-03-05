@@ -39,6 +39,8 @@ Start the server
 ```
 
 
-## 🛠 Skills
-HTML, CSS, Javascript, Next.js, Material-UI, Firebase
+#Install Firebase
+
+npm install firebase
+
 
