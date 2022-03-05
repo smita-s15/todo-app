@@ -39,8 +39,4 @@ Start the server
 ```
 
 
-#Install Firebase
-
-npm install firebase
-
 
